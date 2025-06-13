@@ -1,4 +1,4 @@
-# [ProjectManagers – Business Management Templates Website](https://projectmanagers.biz/business)
+# [ProjectManagers – Business Management Templates Website]
 
 This project is a custom WordPress website designed for a business management template platform. The goal was to offer visitors an intuitive and professional resource hub to explore, preview, and download ready-to-use management templates.
 
